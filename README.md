@@ -9,5 +9,5 @@ file:///C:/Users/Emily%20Yates/Desktop/Challenge-01/Develop/index.html
 
 ## Visuals
 
-![Deployed Webpage](/Challenge-01-Photos/Screenshot%202022-10-17%20215917.png)
-![Deployed Webpage](/Challenge-01-Photos/Screenshot%202022-10-17%20215942.png)
+![Webpage](/Challenge-01-Photos/my-image-jpg.png)
+![Webpage](/Challenge-01-Photos/my-image2-jpg.png)
